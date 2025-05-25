@@ -119,3 +119,26 @@ pnpm dev
 bun dev
 ```
 
+##Screenshots
+
+![image](https://github.com/user-attachments/assets/2ea43af5-135e-47fd-a81f-99f5e8f2d56b)
+
+![image](https://github.com/user-attachments/assets/e8746892-4edf-48d7-aa6a-b23a8a8c2b25)
+
+![image](https://github.com/user-attachments/assets/74c02df5-56fa-41bc-9b68-e211475abe1d)
+
+![image](https://github.com/user-attachments/assets/655e8d56-292a-4227-b7d5-fa4c1f31e14c)
+
+
+![image](https://github.com/user-attachments/assets/e299edcb-c709-468a-98d6-43a79e11ccba)
+
+
+![image](https://github.com/user-attachments/assets/1b7982b6-ec98-4ecb-b998-8d9ec44c736b)
+
+![image](https://github.com/user-attachments/assets/da496157-a013-4970-b92d-919257da270e)
+
+![image](https://github.com/user-attachments/assets/93a91f03-1c42-43d2-a5fb-ee4dae0fb563)
+
+
+
+
