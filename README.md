@@ -96,30 +96,6 @@ src/
 - `npm run lint` - Run ESLint
 - `npm run type-check` - Run TypeScript compiler check
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Next.js team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- All contributors who have helped shape this project
-
-
-
-
-
-
-
 
 
 
